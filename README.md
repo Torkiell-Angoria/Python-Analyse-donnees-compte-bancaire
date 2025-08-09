@@ -40,3 +40,5 @@ L’analyse a été réalisée en Python, via un notebook Jupyter.
 
 ---
 
+![analyseCompte](https://github.com/Torkiell-Angoria/Python-Analyse-donnees-compte-bancaire/blob/main/img/notebook.gif)
+
